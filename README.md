@@ -1,1 +1,2 @@
-# Mindstream
+# mindstream
+Live stream of thinking
